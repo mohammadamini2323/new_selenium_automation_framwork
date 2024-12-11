@@ -4,3 +4,62 @@
 2024-12-04 17:45:52 INFO  ConfigManager:30 - Configuration loaded for environment DEV
 2024-12-04 17:46:15 INFO  ConfigManager:30 - Configuration loaded for environment DEV
 2024-12-04 17:47:00 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-09 12:18:27 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-09 12:18:36 INFO  baseTest:18 - started test with URL{ https://www.amazon.com/ }
+2024-12-09 12:18:42 INFO  baseTest:18 - started test with URL{ https://www.amazon.com/ }
+2024-12-09 17:24:02 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-09 17:24:10 INFO  baseTest:18 - started test with URL{ https://www.amazon.com/ }
+2024-12-09 17:26:19 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-09 17:26:24 INFO  baseTest:18 - started test with URL{ https://www.amazon.com/ }
+2024-12-09 17:27:49 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-09 17:27:54 INFO  baseTest:18 - started test with URL{ https://www.amazon.com/ }
+2024-12-09 17:45:07 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-09 17:45:12 INFO  baseTest:18 - started test with URL{ https://www.amazon.com/ }
+2024-12-09 18:53:29 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-09 18:53:37 INFO  baseTest:18 - started test with URL{ https://www.amazon.com/ }
+2024-12-09 18:54:38 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-09 18:54:44 INFO  baseTest:18 - started test with URL{ https://www.google.com/ }
+2024-12-09 18:55:15 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-09 18:55:22 INFO  baseTest:18 - started test with URL{ https://www.google.com/ }
+2024-12-09 18:59:49 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-09 18:59:55 INFO  baseTest:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 09:07:19 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 09:07:30 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 09:14:31 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 09:14:37 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 09:38:30 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 09:38:36 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 09:43:59 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 09:44:05 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 09:52:16 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 09:52:22 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 10:01:54 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 10:02:00 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 10:20:35 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 10:20:42 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 10:22:01 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 10:22:07 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 10:27:21 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 10:27:27 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 10:29:04 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 10:29:11 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 10:38:25 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 10:38:31 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 10:42:34 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 10:42:39 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 10:47:14 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 10:47:21 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 10:48:57 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 10:49:03 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 10:51:33 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 10:51:39 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 10:59:20 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 10:59:25 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 11:02:02 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 11:02:08 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 11:04:35 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 11:04:41 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 13:37:41 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 13:37:48 INFO  Base:18 - started test with URL{ https://www.google.com/ }
+2024-12-11 14:48:50 INFO  ConfigManager:30 - Configuration loaded for environment DEV
+2024-12-11 14:48:58 INFO  Base:18 - started test with URL{ https://www.google.com/ }

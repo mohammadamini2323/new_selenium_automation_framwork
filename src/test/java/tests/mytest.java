@@ -2,11 +2,11 @@ package tests;
 
 import config.ConfigManager;
 
+
 public class mytest {
     public static void main(String[] args) {
 
-       // System.out.println(proo);
-        System.out.println(ConfigManager.properties.getProperty("env"));
+       System.out.println(ConfigManager.properties.getProperty("env"));
         System.out.println(ConfigManager.getEnvironment());
         System.out.println(ConfigManager.getProperty("browser"));
         System.out.println(ConfigManager.getProperty("isHeadless"));
